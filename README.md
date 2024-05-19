@@ -1,4 +1,4 @@
- <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0n_0c7P0L9DRasTJP_7xM6&ust=1716221011330000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjwutCLmoYDFQAAAAAdAAAAABAF" alt="sanauar-ansari" />
+<div align="center"> <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> </div>
 <h1 align="center">Hi 👋, I'm Sanauar Ansari</h1>
 <h3 align="center">A passionate Full stack developer</h3>
 
